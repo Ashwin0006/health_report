@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "31477888973",
+    "project_id": "ifpwearos-6fbaf",
+    "storage_bucket": "ifpwearos-6fbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31477888973:android:f39510f0a25be48ca0b684",
+        "android_client_info": {
+          "package_name": "com.example.health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpd02XrBILXTKgxu-MLak7rz2WH1xpXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31477888973:android:b2927b495cc83fb7a0b684",
+        "android_client_info": {
+          "package_name": "com.example.healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpd02XrBILXTKgxu-MLak7rz2WH1xpXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31477888973:android:87afe5a398c491efa0b684",
+        "android_client_info": {
+          "package_name": "com.health.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpd02XrBILXTKgxu-MLak7rz2WH1xpXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
